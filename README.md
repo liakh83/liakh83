@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vladimir
 
-💻 **Junior Frontend Developer** with hands-on experience in **React, TypeScript, Redux Toolkit, and modern JavaScript**.
+💻 **Frontend Developer** with hands-on experience in **React, TypeScript, Redux Toolkit, and modern JavaScript**.
 🚀 Passionate about building web applications, working with APIs, and applying clean code principles.
 🤝 Open to collaboration on interesting frontend projects.
 
@@ -37,6 +37,38 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
 ![lint-staged](https://img.shields.io/badge/lint--staged-2D3748?logo=githubactions&logoColor=white)
+
+## 🚀 Projects
+
+Here you can find my projects: from vanilla JS games and SPAs to complex React applications.
+
+### 🌐 Websites (HTML, CSS, JS)
+Multi-page websites with responsive layout and animations.
+
+- 🔹 **Shelter** — two-page responsive site with interactive elements.  
+  - 🌐 [Demo](https://rolling-scopes-school.github.io/liakh83-JSFEPRESCHOOL2024Q2/shelter/main/) | 💻 [Code](https://github.com/liakh83/liakh83-JSFEPRESCHOOL2024Q2/tree/shelter-part3)  
+- 🔹 **Christmas shop** — simple website with animations and transitions.  
+  - 🌐 [Demo](https://rolling-scopes-school.github.io/liakh83-JSFE2024Q4/christmas-shop/home/index.html) | 💻 [Code](https://github.com/liakh83/christmas-shop)  
+
+### 🎮 Games (HTML, CSS, JS)
+
+### 🎨 UI Demo Projects
+
+- 🔹 **Meme Slider** — CSS-only animation for sliding memes.  
+  - 🌐 [Demo](https://liakh83.github.io/cssMemeSlider/cssMemeSlider/index.html) | 💻 [Code](https://github.com/liakh83/cssMemeSlider)  
+- 🔹 **Custom Audio Player** — fully styled audio player with native JS controls.  
+  - 🌐 [Demo](https://rolling-scopes-school.github.io/liakh83-JSFEPRESCHOOL2024Q2/audio-player/index.html) | 💻 [Code](https://github.com/liakh83/liakh83-JSFEPRESCHOOL2024Q2/tree/audio-player)  
+- 🔹 **Other UI experiments…**
+
+---
+
+### ⚡ Vanilla JS SPAs
+
+
+### 🛒 React SPA
+
+
+---
 
 ## 📊 GitHub Stats
 
