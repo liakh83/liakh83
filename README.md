@@ -58,17 +58,14 @@ Multi-page websites with responsive layout and animations.
   - 🌐 [Demo](https://liakh83.github.io/cssMemeSlider/cssMemeSlider/index.html) | 💻 [Code](https://github.com/liakh83/cssMemeSlider)  
 - 🔹 **Custom Audio Player** — fully styled audio player with native JS controls.  
   - 🌐 [Demo](https://rolling-scopes-school.github.io/liakh83-JSFEPRESCHOOL2024Q2/audio-player/index.html) | 💻 [Code](https://github.com/liakh83/liakh83-JSFEPRESCHOOL2024Q2/tree/audio-player)  
-- 🔹 **Other UI experiments…**
-
----
 
 ### ⚡ Vanilla JS SPAs
 
 
-### 🛒 React SPA
-
-
----
+### 🛒 React SPA (TypeScript)
+**E-Commerce Store** (educational project): user authentication, shopping cart, profile management.  
+- 💻 [Code](https://github.com/internMichael-JS/eCommerce-Application)  
+*(⚠ demo is temporarily unavailable due to API subscription limits)*
 
 ## 📊 GitHub Stats
 
