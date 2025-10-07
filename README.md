@@ -73,4 +73,4 @@ Multi-page websites with responsive layout and animations.
 
 ## 🏆 Achievements
 
-[![Codewars](https://www.codewars.com/users/rsschool_cf1ad1cb3343cb0e/badges/large)](https://www.codewars.com/users/rsschool_cf1ad1cb3343cb0e)
+[![Codewars](https://www.codewars.com/users/liakh83/badges/large)](https://www.codewars.com/users/liakh83)
